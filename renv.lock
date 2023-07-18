@@ -181,7 +181,7 @@
     },
     "arrow": {
       "Package": "arrow",
-      "Version": "12.0.1",
+      "Version": "12.0.0",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -199,7 +199,7 @@
         "utils",
         "vctrs"
       ],
-      "Hash": "6f47141e9d2f266b3cd87ac0cb013031"
+      "Hash": "991f97485cc1db28ff463683ed195ada"
     },
     "askpass": {
       "Package": "askpass",
@@ -547,7 +547,7 @@
     },
     "dbplyr": {
       "Package": "dbplyr",
-      "Version": "2.3.3",
+      "Version": "2.3.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -571,7 +571,7 @@
         "vctrs",
         "withr"
       ],
-      "Hash": "d6fd1b1440c1cacc6623aaa4e9fe352b"
+      "Hash": "d24305b92db333726aed162a2c23a147"
     },
     "desc": {
       "Package": "desc",
@@ -714,7 +714,7 @@
     },
     "duckdb": {
       "Package": "duckdb",
-      "Version": "0.8.1-1",
+      "Version": "0.8.0",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -723,7 +723,7 @@
         "methods",
         "utils"
       ],
-      "Hash": "a066bd8c5d84b5a6bf7dc5f24109d85c"
+      "Hash": "d22ebf42c6176a7863d44587e88a84d9"
     },
     "dygraphs": {
       "Package": "dygraphs",
@@ -1989,7 +1989,7 @@
     },
     "plotly": {
       "Package": "plotly",
-      "Version": "4.10.2",
+      "Version": "4.10.1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -2017,7 +2017,7 @@
         "vctrs",
         "viridisLite"
       ],
-      "Hash": "6c00a09ba7d34917d9a3e28b15dd74e3"
+      "Hash": "3781cf6971c6467fa842a63725bbee9e"
     },
     "png": {
       "Package": "png",
@@ -2201,7 +2201,7 @@
     },
     "readxl": {
       "Package": "readxl",
-      "Version": "1.4.3",
+      "Version": "1.4.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -2212,7 +2212,7 @@
         "tibble",
         "utils"
       ],
-      "Hash": "8cf9c239b96df1bbb133b74aef77ad0a"
+      "Hash": "2e6020b1399d95f947ed867045e9ca17"
     },
     "recipes": {
       "Package": "recipes",
@@ -2655,7 +2655,7 @@
     },
     "testthat": {
       "Package": "testthat",
-      "Version": "3.1.10",
+      "Version": "3.1.7",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -2681,7 +2681,7 @@
         "waldo",
         "withr"
       ],
-      "Hash": "6f403dc49295610a3a67ea1a9ca64346"
+      "Hash": "7eb5fd202a61d2fb78af5869b6c08998"
     },
     "textshaping": {
       "Package": "textshaping",
@@ -2926,7 +2926,7 @@
     },
     "usethis": {
       "Package": "usethis",
-      "Version": "2.2.2",
+      "Version": "2.1.6",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -2953,7 +2953,7 @@
         "withr",
         "yaml"
       ],
-      "Hash": "60e51f0b94d0324dc19e44110098fa9f"
+      "Hash": "a67a22c201832b12c036cc059f1d137d"
     },
     "utf8": {
       "Package": "utf8",
